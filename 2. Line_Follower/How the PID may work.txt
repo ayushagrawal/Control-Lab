@@ -1,0 +1,4 @@
+1. Initially the motor speed for both the motors can be given the maximum value.
+2. Calculate the error and change the speed of one of the motors using the sign of the error and change the speed as according to the error.
+
+Now the main task is defining what the error is.
